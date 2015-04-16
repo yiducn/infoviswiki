@@ -1,5 +1,5 @@
 # Summary
 
-* [introduction](introduction.md)
+* introduction
 * [关于本书](about.md)
 
