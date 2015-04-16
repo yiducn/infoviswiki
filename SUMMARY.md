@@ -1,4 +1,3 @@
 # Summary
 
-* [introduction](introduction.md)
 
