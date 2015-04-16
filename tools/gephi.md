@@ -1,5 +1,5 @@
 
-![封面](/tools/screen.png "hello")
+![封面](tools/screen.png "hello")
 
 
 
