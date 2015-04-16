@@ -1,6 +1,5 @@
 
 ![封面](screen.png "hello")
-![](overview.png)
 
 
 Gephi
@@ -17,7 +16,9 @@ Gephi是一款网络可视化的软件，目标是打造“图领域的Photoshop
 下面给出了Gephi的用户界面，整个界面由三个大的部分组成，分别是可视化操纵视图、原始数据视图、预览视图。我们稍微详细介绍这三个部分。
 2.1可视化操纵视图
 下图是可视化操纵视图(Oerview)，是Gephi的最主要的视图。在该部分中，包括
- 
+
+ ![overview](overview.png)
+ ![](datalab.png)
  原始数据视图
 
  
