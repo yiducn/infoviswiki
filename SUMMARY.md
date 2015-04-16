@@ -1,4 +1,4 @@
 # Summary
 
-* [test](/tools/gephi.md)
+* [Gephi](/tools/gephi.md)
 
