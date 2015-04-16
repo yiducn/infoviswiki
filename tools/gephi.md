@@ -18,13 +18,13 @@ Gephi是一款网络可视化的软件，目标是打造“图领域的Photoshop
 下图是可视化操纵视图(Oerview)，是Gephi的最主要的视图。在该部分中，包括
 
  ![overview](overview.png)
- ![](datalab.png)
+ 
  原始数据视图
-
+ ![sourcedata](datalab.png)
  
 
 预览视图
-
+![](preview.png)
  
 
 一个流程走遍所有功能
