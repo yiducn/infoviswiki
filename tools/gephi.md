@@ -31,3 +31,5 @@ Gephi是一款网络可视化的软件，目标是打造“图领域的Photoshop
 
 ![](demo1.png)
 
+![](demo2.png)
+
