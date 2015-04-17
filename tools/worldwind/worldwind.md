@@ -1,54 +1,54 @@
 
-1.»ù±¾°¸Àı
-×î¼òµ¥µÄ´´½¨Ò»¸öµØÍ¼µÄ·½Ê½£¬ÓĞÁ½¸ödemo¡£
+1.åŸºæœ¬æ¡ˆä¾‹
+æœ€ç®€å•çš„åˆ›å»ºä¸€ä¸ªåœ°å›¾çš„æ–¹å¼ï¼Œæœ‰ä¸¤ä¸ªdemoã€‚
 
-Ìá¹©Ò»¸öÓ¦ÓÃ´´½¨µÄ»ù±¾¿ò¼Ü
+æä¾›ä¸€ä¸ªåº”ç”¨åˆ›å»ºçš„åŸºæœ¬æ¡†æ¶
 
-ÑİÊ¾ÈçºÎ¹Ø±ÕÒ»¸öww´°¿Ú£¬ºÍÈ«²¿¹Ø±Õww¡£
-
-
-2.²ã(Layers)
-½«²ã¿ØÖÆ·ÅÖÃÔÚww´°¿ÚÉÏ(OnScreen)£¬Ê¹ÓÃLayerManagerLayer
-
-ÑİÊ¾¶à¸öWMS²ã£¬Ê¹ÓÃÁËWMSLayersPanel
-
-Ê¹ÓÃBasicTreeÀ´ÏÔÊ¾¸÷¸ö²ã
-
-ÏÔÊ¾¾­Î³¶ÈµÄ×ø±ê
-
-MGRS/UTMÍø¸ñµÄÏÔÊ¾¿ØÖÆ
-
-3.ÊÓÍ¼(View)
-Í¨¹ı¿ØÖÆ¸©Ñö½Ç¡¢ÊÓ½ÇµÈ²»Í¬²ÎÊı£¬À´¿ØÖÆÊÓ½Ç¡£
-
-ÑİÊ¾ÈçºÎ¶¯Ì¬µÄ±ä»»ÊÓÍ¼
-
-Ê¹ÓÃBasicFlyView£¬À´Æ½»¬µÄ´ÓÒ»¸öÊÓµãµ½ÁíÒ»¸öÊÓµã
-
-ÑİÊ¾ÊÓÍ¼±ä»»µÄ±È½Ï
-
-ÑİÊ¾ÈçºÎ½«ÊÓµãÏŞÖÆµ½Ä³¸ö²ÎÊı·¶Î§ÄÚ
-
-ÑİÊ¾ÈçºÎ¿ØÖÆÊÓµã×Ô¶¯±ä»¯£¬ÒÔÊÊÓ¦¶ÔÏóÎ»ÖÃµÄ±ä»¯£¬Ê¹ÓÃÁË¸¨ÖúÀàExtentVisibilitySupport¡£
-
-ÑİÊ¾ÁËÈçºÎ¿ØÖÆÊÓÍ¼Ãæ°åµÄ¹¦ÄÜ
+æ¼”ç¤ºå¦‚ä½•å…³é—­ä¸€ä¸ªwwçª—å£ï¼Œå’Œå…¨éƒ¨å…³é—­wwã€‚
 
 
-4.Êı¾İ(Data)
-ÑİÊ¾ÈçºÎ´ÓÔ¶³ÌÏÂÔØÏà¹ØµÄµØÍ¼Êı¾İ
+2.å±‚(Layers)
+å°†å±‚æ§åˆ¶æ”¾ç½®åœ¨wwçª—å£ä¸Š(OnScreen)ï¼Œä½¿ç”¨LayerManagerLayer
+
+æ¼”ç¤ºå¤šä¸ªWMSå±‚ï¼Œä½¿ç”¨äº†WMSLayersPanel
+
+ä½¿ç”¨BasicTreeæ¥æ˜¾ç¤ºå„ä¸ªå±‚
+
+æ˜¾ç¤ºç»çº¬åº¦çš„åæ ‡
+
+MGRS/UTMç½‘æ ¼çš„æ˜¾ç¤ºæ§åˆ¶
+
+3.è§†å›¾(View)
+é€šè¿‡æ§åˆ¶ä¿¯ä»°è§’ã€è§†è§’ç­‰ä¸åŒå‚æ•°ï¼Œæ¥æ§åˆ¶è§†è§’ã€‚
+
+æ¼”ç¤ºå¦‚ä½•åŠ¨æ€çš„å˜æ¢è§†å›¾
+
+ä½¿ç”¨BasicFlyViewï¼Œæ¥å¹³æ»‘çš„ä»ä¸€ä¸ªè§†ç‚¹åˆ°å¦ä¸€ä¸ªè§†ç‚¹
+
+æ¼”ç¤ºè§†å›¾å˜æ¢çš„æ¯”è¾ƒ
+
+æ¼”ç¤ºå¦‚ä½•å°†è§†ç‚¹é™åˆ¶åˆ°æŸä¸ªå‚æ•°èŒƒå›´å†…
+
+æ¼”ç¤ºå¦‚ä½•æ§åˆ¶è§†ç‚¹è‡ªåŠ¨å˜åŒ–ï¼Œä»¥é€‚åº”å¯¹è±¡ä½ç½®çš„å˜åŒ–ï¼Œä½¿ç”¨äº†è¾…åŠ©ç±»ExtentVisibilitySupportã€‚
+
+æ¼”ç¤ºäº†å¦‚ä½•æ§åˆ¶è§†å›¾é¢æ¿çš„åŠŸèƒ½
+
+
+4.æ•°æ®(Data)
+æ¼”ç¤ºå¦‚ä½•ä»è¿œç¨‹ä¸‹è½½ç›¸å…³çš„åœ°å›¾æ•°æ®
 
 DataInstallerApp??
-ÑİÊ¾ÁËÈçºÎµ¼ÈëESRI shapefilesµ½ww
+æ¼”ç¤ºäº†å¦‚ä½•å¯¼å…¥ESRI shapefilesåˆ°ww
 
-ÑİÊ¾ÈçºÎ¼ÓÔØextruded shapes from Shapefiles
+æ¼”ç¤ºå¦‚ä½•åŠ è½½extruded shapes from Shapefiles
 
-µÈµÈ
-5.µØĞÎÓëµØÊÆ(Terrain)
-ÑİÊ¾ÁËÊ¹ÓÃ¸ß¶È¼à¿ØÆ÷²ã(TerrainProfileLayer)À´ÊµÊ±¼à²â¸ß¶ÈµÄ±ä»¯£¬ºÜÓĞÒâË¼
+ç­‰ç­‰
+5.åœ°å½¢ä¸åœ°åŠ¿(Terrain)
+æ¼”ç¤ºäº†ä½¿ç”¨é«˜åº¦ç›‘æ§å™¨å±‚(TerrainProfileLayer)æ¥å®æ—¶ç›‘æµ‹é«˜åº¦çš„å˜åŒ–ï¼Œå¾ˆæœ‰æ„æ€
 
-ÑİÊ¾ÁËÈçºÎ½«¸ß¶ÈÄ£ĞÍÓë¸ß·Ö±æÂÊÍ¼Æ¬½øĞĞ½áºÏ
+æ¼”ç¤ºäº†å¦‚ä½•å°†é«˜åº¦æ¨¡å‹ä¸é«˜åˆ†è¾¨ç‡å›¾ç‰‡è¿›è¡Œç»“åˆ
 
-»­µÈ¸ßÏß
+ç”»ç­‰é«˜çº¿
 
 BathymetryRemoval?
 
@@ -56,138 +56,138 @@ DetailHints?
 
 DimGlobeSurface
 
-6.ĞÎ×´(Shapes)
-ÑİÊ¾ÁËÈçºÎ´´½¨¸÷ÖÖ²»Í¬Í¼ĞÎ
+6.å½¢çŠ¶(Shapes)
+æ¼”ç¤ºäº†å¦‚ä½•åˆ›å»ºå„ç§ä¸åŒå›¾å½¢
 
-ÑİÊ¾AirspaceÀàµÄ¶ÔÏó£¬Çø±ğ?
+æ¼”ç¤ºAirspaceç±»çš„å¯¹è±¡ï¼ŒåŒºåˆ«?
 
-ÑİÊ¾´´½¨¿É±à¼­µÄ3DÄ£ĞÍ
+æ¼”ç¤ºåˆ›å»ºå¯ç¼–è¾‘çš„3Dæ¨¡å‹
 
-ÑİÊ¾ÈçºÎÊ¹ÓÃ¿ÉÇĞ¸îµÄ¶à±ßĞÎExtrudedPolygons
+æ¼”ç¤ºå¦‚ä½•ä½¿ç”¨å¯åˆ‡å‰²çš„å¤šè¾¹å½¢ExtrudedPolygons
 
-ÑİÊ¾¿ÉÇĞ¸îµÄ¶à±ßĞÎ£¬Õâ¸öÑİÊ¾´øÓĞÎÆÀí
+æ¼”ç¤ºå¯åˆ‡å‰²çš„å¤šè¾¹å½¢ï¼Œè¿™ä¸ªæ¼”ç¤ºå¸¦æœ‰çº¹ç†
 
-ÑİÊ¾ÈçºÎ´´½¨¿É±à¼­µÄExtrudedPolygons
+æ¼”ç¤ºå¦‚ä½•åˆ›å»ºå¯ç¼–è¾‘çš„ExtrudedPolygons
 
-ÑİÊ¾½»»¥Ê½´´½¨¶à±ßĞÎ
+æ¼”ç¤ºäº¤äº’å¼åˆ›å»ºå¤šè¾¹å½¢
 
-ÑİÊ¾´ø±³¾°µÄÏß£¿
+æ¼”ç¤ºå¸¦èƒŒæ™¯çš„çº¿ï¼Ÿ
 
-ÑİÊ¾ÈçºÎ¹¹½¨Path
+æ¼”ç¤ºå¦‚ä½•æ„å»ºPath
 
-ÑİÊ¾´ø¼ıÍ·µÄPath
+æ¼”ç¤ºå¸¦ç®­å¤´çš„Path
 
-ÑİÊ¾ÁË¶à±ßĞÎ
+æ¼”ç¤ºäº†å¤šè¾¹å½¢
 
-ÑİÊ¾¸÷ÖÖRigidShapes?
+æ¼”ç¤ºå„ç§RigidShapes?
 
-ÑİÊ¾ÈçºÎ´´½¨RigidShape
+æ¼”ç¤ºå¦‚ä½•åˆ›å»ºRigidShape
 
-ÑİÊ¾ÍÖÔ²ĞÎEllipsoidsµÄÊ¹ÓÃ
+æ¼”ç¤ºæ¤­åœ†å½¢Ellipsoidsçš„ä½¿ç”¨
 
-ÑİÊ¾ÈçºÎÊ¹ÓÃBox
+æ¼”ç¤ºå¦‚ä½•ä½¿ç”¨Box
 
-ÑİÊ¾ÈçºÎÊ¹ÓÃCylinders
+æ¼”ç¤ºå¦‚ä½•ä½¿ç”¨Cylinders
 
-ÑİÊ¾ÈçºÎÊ¹ÓÃCones Ô²×¶
+æ¼”ç¤ºå¦‚ä½•ä½¿ç”¨Cones åœ†é”¥
 
-ÑİÊ¾ÈçºÎÊ¹ÓÃPyramid ½ğ×ÖËş
+æ¼”ç¤ºå¦‚ä½•ä½¿ç”¨Pyramid é‡‘å­—å¡”
 
-ÑİÊ¾ÈçºÎÊ¹ÓÃWedgesĞ¨ĞÎ
+æ¼”ç¤ºå¦‚ä½•ä½¿ç”¨Wedgesæ¥”å½¢
 
-ÑİÊ¾ÈçºÎ´´½¨Ò»¸ö¿É¶¯Ì¬Ğı×ªµÄÍ¼ĞÎ
-
-
-7.×¢ÊÍ(Annotations)
-ÑİÊ¾wwÖĞµÄ×¢ÊÍ(Annotations)
-
-ÑİÊ¾Ê¹ÓÃAnnotationLayoutManagerÀ´³ÊÏÖÒ»¸ö¿ÉÇ¶Èë×Ó½çÃæµÄAnnotation
-
-ÑİÊ¾ÈçºÎÊ¹ÓÃÆøÇò×¢ÊÍBalloons
-
-ÑİÊ¾ÈçºÎÊ¹ÓÃ´øÓĞä¯ÀÀÆ÷µÄ×¢ÊÍ
-
-ÑİÊ¾Ğ¡µÄMarker
-
-MarkersOrder:Shows how to control track markers¡¯ attributes to convey their order in time.
-
-ÑİÊ¾GPS¸ú×ÙµÄMarker
-
-ÑİÊ¾Ê¹ÓÃPointPlacemark
-
-ÑİÊ¾ÏÔÊ¾µØÀíÃû
-
-ÑİÊ¾Ê¹ÓÃLabelµÄpath
-
-ÑİÊ¾Ê¹ÓÃWWIcon
-
-ÑİÊ¾Ê¹ÓÃPointGridÀ´»­µãÔÆ(Uses a PointGrid to draw a grid of points on the terrain, spacing them evenly throughout a region defined by a four sided polygon.)
-
-8.Í¼Ïñ(Images)
-ÑİÊ¾Ê¹ÓÃSurfaceImageÀ´»­ÌùÔÚµØÇòÉÏ£¬ËæÊÓ½Ç±ä»¯µÄÍ¼Æ¬
-
-ÑİÊ¾ÈçºÎÍ¨¹ıRemoteSurfaceImage»ñÈ¡Ò»ÕÅÔ¶³ÌÍ¼Ïñ
-
-ÑİÊ¾¼ÓÔØÒ»¸ö¿ÉËæÒâÕÛµşµÄÍ¼Æ¬µÄÌí¼Ó
-
-ÑİÊ¾Ò»¸ö¿ÉÍÏ×§µÄÍ¼Æ¬
-
-9.ÓÃ»§½çÃæ(User Interface)
-ÑİÊ¾ÓÒ¼ü²Ëµ¥
-
-ÑİÊ¾ÉîÈëÊ°È¡£¬Ê¹ÓÃÁËSelectEvents¶ÔÏó
-
-PickFrustum  ¨C  Illustrates how to change the size of the pick frustum.
-
-·Ö¸îÃæ°åÑİÊ¾
-
-TabbedÃæ°åÑİÊ¾
+æ¼”ç¤ºå¦‚ä½•åˆ›å»ºä¸€ä¸ªå¯åŠ¨æ€æ—‹è½¬çš„å›¾å½¢
 
 
-10.ÍøÂç
+7.æ³¨é‡Š(Annotations)
+æ¼”ç¤ºwwä¸­çš„æ³¨é‡Š(Annotations)
+
+æ¼”ç¤ºä½¿ç”¨AnnotationLayoutManageræ¥å‘ˆç°ä¸€ä¸ªå¯åµŒå…¥å­ç•Œé¢çš„Annotation
+
+æ¼”ç¤ºå¦‚ä½•ä½¿ç”¨æ°”çƒæ³¨é‡ŠBalloons
+
+æ¼”ç¤ºå¦‚ä½•ä½¿ç”¨å¸¦æœ‰æµè§ˆå™¨çš„æ³¨é‡Š
+
+æ¼”ç¤ºå°çš„Marker
+
+MarkersOrder:Shows how to control track markersâ€™ attributes to convey their order in time.
+
+æ¼”ç¤ºGPSè·Ÿè¸ªçš„Marker
+
+æ¼”ç¤ºä½¿ç”¨PointPlacemark
+
+æ¼”ç¤ºæ˜¾ç¤ºåœ°ç†å
+
+æ¼”ç¤ºä½¿ç”¨Labelçš„path
+
+æ¼”ç¤ºä½¿ç”¨WWIcon
+
+æ¼”ç¤ºä½¿ç”¨PointGridæ¥ç”»ç‚¹äº‘(Uses a PointGrid to draw a grid of points on the terrain, spacing them evenly throughout a region defined by a four sided polygon.)
+
+8.å›¾åƒ(Images)
+æ¼”ç¤ºä½¿ç”¨SurfaceImageæ¥ç”»è´´åœ¨åœ°çƒä¸Šï¼Œéšè§†è§’å˜åŒ–çš„å›¾ç‰‡
+
+æ¼”ç¤ºå¦‚ä½•é€šè¿‡RemoteSurfaceImageè·å–ä¸€å¼ è¿œç¨‹å›¾åƒ
+
+æ¼”ç¤ºåŠ è½½ä¸€ä¸ªå¯éšæ„æŠ˜å çš„å›¾ç‰‡çš„æ·»åŠ 
+
+æ¼”ç¤ºä¸€ä¸ªå¯æ‹–æ‹½çš„å›¾ç‰‡
+
+9.ç”¨æˆ·ç•Œé¢(User Interface)
+æ¼”ç¤ºå³é”®èœå•
+
+æ¼”ç¤ºæ·±å…¥æ‹¾å–ï¼Œä½¿ç”¨äº†SelectEventså¯¹è±¡
+
+PickFrustum  â€“  Illustrates how to change the size of the pick frustum.
+
+åˆ†å‰²é¢æ¿æ¼”ç¤º
+
+Tabbedé¢æ¿æ¼”ç¤º
+
+
+10.ç½‘ç»œ
 NetworkOfflineMode
 LocalDataOnly
-11.ÅäÖÃ(Configuration)
-ÑİÊ¾¶şÎ¬µØÍ¼
+11.é…ç½®(Configuration)
+æ¼”ç¤ºäºŒç»´åœ°å›¾
 
-ConfiguringGLRuntimeCapabilities  ¨C  Illustrates how to configure World Wind¡¯s OpenGL features using a GLRuntimeCapabilities.
+ConfiguringGLRuntimeCapabilities  â€“  Illustrates how to configure World Windâ€™s OpenGL features using a GLRuntimeCapabilities.
 
-ÑİÊ¾Ê¹ÓÃÅäÖÃÎÄ¼ş×Ô¶¨Òå¸ß¶ÈÄ£ĞÍ(ElevationModel)
+æ¼”ç¤ºä½¿ç”¨é…ç½®æ–‡ä»¶è‡ªå®šä¹‰é«˜åº¦æ¨¡å‹(ElevationModel)
 
-ÑİÊ¾Á¢ÌåĞ§¹û
+æ¼”ç¤ºç«‹ä½“æ•ˆæœ
 
-12.¹¤¾ß(Tools)
-ÑİÊ¾ÈçºÎÖØ¶¨ÏòÈÕÖ¾
+12.å·¥å…·(Tools)
+æ¼”ç¤ºå¦‚ä½•é‡å®šå‘æ—¥å¿—
 
-ÑİÊ¾ÈçºÎÊä³öÒ»Ğ©Õï¶ÏĞÅÏ¢
+æ¼”ç¤ºå¦‚ä½•è¾“å‡ºä¸€äº›è¯Šæ–­ä¿¡æ¯
 
-ÑİÊ¾½ØÍ¼¹¦ÄÜ£¬Ê¹ÓÃScreenShotAction
+æ¼”ç¤ºæˆªå›¾åŠŸèƒ½ï¼Œä½¿ç”¨ScreenShotAction
 
-ÑİÊ¾AbstractShapeIntersection£¬(Shows how to determine and display the intersection of a line with an Ellipsoid or other rigid shapes.)
+æ¼”ç¤ºAbstractShapeIntersectionï¼Œ(Shows how to determine and display the intersection of a line with an Ellipsoid or other rigid shapes.)
   
-ÑİÊ¾ÊÓÏß(LinesOfSight)Computes and displays line-of-sight intersections for Terrain and renderables using the highest-resolution elevation data associated with a specified globe.
+æ¼”ç¤ºè§†çº¿(LinesOfSight)Computes and displays line-of-sight intersections for Terrain and renderables using the highest-resolution elevation data associated with a specified globe.
 
-ÑİÊ¾Ê÷×´¿ØÖÆ
+æ¼”ç¤ºæ ‘çŠ¶æ§åˆ¶
 
-ÑİÊ¾TreeFiltering£¬Ê¹ÓÃBasicQuardTree¸ù¾İÖ¸¶¨ÇøÓòÏÔÊ¾¸Ã²ãµÄÌØ¶¨Î»ÖÃ
+æ¼”ç¤ºTreeFilteringï¼Œä½¿ç”¨BasicQuardTreeæ ¹æ®æŒ‡å®šåŒºåŸŸæ˜¾ç¤ºè¯¥å±‚çš„ç‰¹å®šä½ç½®
 
-ÑİÊ¾²âÁ¿³¤¶È¡¢ÇøÓò
+æ¼”ç¤ºæµ‹é‡é•¿åº¦ã€åŒºåŸŸ
 
-ÑİÊ¾Ê¹ÓÃµØÀíÎ»ÖÃ¼ìË÷·şÎñ
+æ¼”ç¤ºä½¿ç”¨åœ°ç†ä½ç½®æ£€ç´¢æœåŠ¡
 
-ÑİÊ¾Êı¾İ»º´æÎÊÌâ
+æ¼”ç¤ºæ•°æ®ç¼“å­˜é—®é¢˜
 
 
-13.¶à´°¿Ú
-ÑİÊ¾¶à´°¿Ú
+13.å¤šçª—å£
+æ¼”ç¤ºå¤šçª—å£
 
-ÑİÊ¾cardlayout
+æ¼”ç¤ºcardlayout
 
-ÑİÊ¾flatworld
+æ¼”ç¤ºflatworld
 
-ÑİÊ¾tabbedpane
+æ¼”ç¤ºtabbedpane
 
-ÑİÊ¾Á½¸öwwpanel
+æ¼”ç¤ºä¸¤ä¸ªwwpanel
 
 
 14.
