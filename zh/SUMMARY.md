@@ -1,6 +1,6 @@
 # Summary
 
-* [概述](README.md)
+* [概述]
 * [可视化方法] (visualmethod/README.md)
 * [交互方法] (hci/README.md)
 
@@ -12,7 +12,7 @@
 * [公司](companies/README.md)
 	* [创冰](companies/champdas/champdas.md)
 * [实验室](lab/README.md)
-	* [DVIZ](lab/dviz/dvia.md)
+	* [DVIZ](lab/dviz/dviz.md)
 * [数据集] (dataset/README.md)
 * [经典案例]
 
