@@ -3,7 +3,6 @@
 * [introduction](README.md)
 * [Tools](tools/README.md)
 	* [Gephi](tools/gephi/gephi.md)
-	* [WorldWind](tools/worldwind/worldwind.md)
 * [Toolkits](toolkits/README.md)
 	* [Prefuse](toolkits/prefuse/prefuse.md)
 	* [WorldWind](toolkits/worldwind/worldwind.md)
