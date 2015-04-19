@@ -1,2 +1,2 @@
-﻿* [Chinese](chs/)
+﻿* [Chinese](zh-cn/)
 
