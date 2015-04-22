@@ -18,6 +18,10 @@
 * [开发工具](toolkits/readme.md)
 	* [Prefuse](toolkits/prefuse/prefuse.md)
 	* [WorldWind](toolkits/worldwind/worldwind.md)
+	* [d3.js]
+	* [echarts]
+	* [leaflet]
+	* [sigma.js]
 * [公司](companies/readme.md)
 	* [数字冰雹] (companies/digihail/digihail.md)
 	* [创冰](companies/champdas/champdas.md)
