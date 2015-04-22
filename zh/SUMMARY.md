@@ -21,6 +21,7 @@
 * [公司](companies/readme.md)
 	* [数字冰雹] (companies/digihail/digihail.md)
 	* [创冰](companies/champdas/champdas.md)
+	* [海云数据]
 * [实验室](lab/readme.md)
 	* [DVIZ](lab/dviz/dviz.md)
 * [数据集] (dataset/readme.md)
