@@ -3,21 +3,18 @@
 * [概述](intro/readme.md)
 	* [什么是可视化](intro/whatis/whatis.md)
 	* [为什么需要可视化](intro/whyvis/whyvis.md)
-	* [信息图、信息可视化与可视分析]
-	
+	* [信息图、信息可视化与可视分析]	
 * [可视化方法](visualmethod/readme.md)
 	* [可视化方法一览]
 	* [从数据角度看可视化方法的分类]
-	* [如何选择合适的可视化方法](visualmethod/howtochoose1/choose.md)
-
-* [交互技术](hci/readme.md)
+	* [如何选择合适的可视化方法](visualmethod/howtochoose1.md)
+* [可视分析方法与交互技术](hci/readme.md)
 	* [Overview+Detail]
 	* [Focus+Context]
 	* [Dynamic Filter]
 	* [Brush + Linking]
 	* [笔交互技术]
 	* [触控技术]
-
 * [通用软件](generaltools/readme.md)
 	* [Tableau]
 	* [Raw](tools/raw/raw.md)
@@ -30,12 +27,14 @@
 	
 * [软件](tools/readme.md)
 	* [Gephi](tools/gephi/gephi.md)
+	* [NodeXL]
 	* [CartoDB](tools/cartodb/cartodb.md)
 	* [Circos](tools/circos/circos.md)	
 	* [Tagxed](tools/tagxed/tagxed.md)
 	* [Wordle]
 	* [日志可视化软件](tools/code_swarm/code_swarm.md)	
 	* [三维地球显示软件]
+	* [Gapminder]
 	
 * [开发工具](toolkits/readme.md)
 	* [Prefuse](toolkits/prefuse/prefuse.md)
@@ -48,6 +47,7 @@
 	* [three.js]
 	* [opengl]
 	* [vtk]
+	* [Gephi Toolkit]	
 	
 * [公司](companies/readme.md)
 	* [数字冰雹](companies/digihail/digihail.md)
@@ -57,12 +57,15 @@
 	* [海云数据]
 	* [Trifacta]
 	* [万博思图]
+	* [Tableau]
+	* [datawatch]
 
-* [研究团队](lab/readme.md)
+* [研发团队](lab/readme.md)
 	* [北京大学袁晓如团队]
 	* [浙江大学陈为团队]
 	* [天津大学张加万团队]
 	* [山东大学陈宝权团队]
+	* [百度ECharts团队]
 
 * [媒体团队]
 	* [网易新媒体实验室]
@@ -70,13 +73,16 @@
 	* [图政研究中心]
 
 * [交流活动]
-	* [IEEE VIS]
+	* [IEEE VIS](events/ieeevis.md)
 	* [Euro VIS]
 	* [Pacific VIS]
 	* [China VIS]
+	* [OpenVis]
 
 * [人才培养]
 	* [中国传媒大学]
+	* [北京大学可视化暑期学校]
+	* [数据新闻训练营]
 	
 * [数据](dataset/readme.md)
 	* [如何获取数据]
