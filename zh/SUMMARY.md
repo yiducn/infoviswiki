@@ -13,7 +13,7 @@
 * [交互技术](hci/readme.md)
 	* [Overview+Detail]
 	* [Focus+Context]
-	* [Filter]
+	* [Dynamic Filter]
 	* [Brush + Linking]
 	* [笔交互技术]
 	* [触控技术]
@@ -82,8 +82,5 @@
 	* [如何获取数据]
 	* [数据集资源汇总]
 	* [开放数据]
-
 	
 * [经典案例]
-
-
