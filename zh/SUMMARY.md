@@ -15,7 +15,12 @@
 	* [Brush + Linking]
 	* [笔交互技术]
 	* [触控技术]
-* [通用软件](generaltools/readme.md)
+	
+* [数据处理软件]
+	* [Google Refine]
+	* [DataWrangler]
+	
+* [通用可视化软件](generaltools/readme.md)
 	* [Tableau]
 	* [Raw](tools/raw/raw.md)
 	* [iChart](tools/ichart/ichart.md)
@@ -24,6 +29,7 @@
 	* [DVIZ]
 	* [大数据魔镜]
 	* [Excel]
+	* [Google Fusion Tables]
 	
 * [软件](tools/readme.md)
 	* [Gephi](tools/gephi/gephi.md)
