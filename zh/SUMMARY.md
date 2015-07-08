@@ -39,11 +39,11 @@
 * [可视化在不同领域的应用]
 	* [文本理解]
 	* [源代码安全]
-	* [网络安全]
+	* [信息安全]
 	* [电子商务]
 * [可视化相关软件]
 	* [提供一站式解决方案的软件]
-		* [Excel]		
+		* [Excel]
 		* [SPSS]
 		* [SAS]
 	* [数据处理软件]
@@ -56,8 +56,10 @@
 		* [ManyEyes](tools/manyeyes/manyeyes.md)
 		* [百度图说]
 		* [DVIZ]
-		* [大数据魔镜]		
-		* [Google Fusion Tables]	
+		* [大数据魔镜]
+		* [Google Fusion Tables]
+		* [Visage](http://visage.co/)
+		* [Spotfire](http://spotfire.tibco.com/)
 	* [特定领域可视化软件](tools/readme.md)
 		* [多维数据可视化软件]
 			* [Gapminder]
@@ -71,31 +73,43 @@
 			* [Tagxed](tools/tagxed/tagxed.md)
 			* [Wordle]
 		* [日志数据可视化软件](tools/code_swarm/code_swarm.md)
-		* [Circos](tools/circos/circos.md)	
+		* [Circos](tools/circos/circos.md)
 * [开发工具](toolkits/readme.md)
 	* [数据处理工具]
 		* [R]
 	* [可视化开发工具]
 		* [Prefuse](toolkits/prefuse/prefuse.md)
-		* [WorldWind](toolkits/worldwind/worldwind.md)
 		* [d3.js]
 		* [Protovis.js]
-		* [echarts]
-		* [leaflet]
+		* [echarts]  
 		* [sigma.js]
 		* [three.js]
 		* [opengl]
+		* [Processing]
+		* [Processing.js]
 		* [vtk]
+		* [paper.js](https://github.com/paperjs/paper.js)
 		* [Gephi Toolkit]
-* [推动可视化发展的力量]	
-	* [研发团队](lab/readme.md)
+		* [peity](https://github.com/benpickles/peity)
+		* [Javascript Infovis Toolkit](http://philogb.github.io/jit/demos.html)
+	* [空间可视化开发工具]
+		* [OpenLayers]
+		* [WorldWind](toolkits/worldwind/worldwind.md)
+		* [unfolding](https://github.com/tillnagel/unfolding)
+		* [Polymaps](https://github.com/simplegeo/polymaps)
+		* [Modest Maps](https://github.com/stamen/modestmaps-js)
+		* [leaflet](http://leafletjs.com/)
+		* [Map Box]
+	* [选择可视化开发工具](http://selection.datavisualization.ch/)
+* [推动可视化发展的力量]
+	* [研发团队(中国)](lab/readme.md)
 		* [北京大学]
 		* [浙江大学]
 		* [中国传媒大学]
 		* [天津大学]
 		* [百度ECharts团队]
 		* [淘宝可视化团队]
-	* [媒体团队]
+	* [媒体团队(中国)]
 		* [网易新媒体实验室]
 		* [财新网团队]
 		* [图政研究中心]
@@ -113,7 +127,7 @@
 * [数据资源](dataset/readme.md)
 	* [如何获取数据]
 	* [数据集资源汇总]
-	* [开放数据]	
+	* [开放数据]
 * [其它]
 	* [公司](companies/readme.md)
 		* [数字冰雹](companies/digihail/digihail.md)
@@ -125,3 +139,6 @@
 		* [万博思图]
 		* [Tableau]
 		* [datawatch]
+	* [网站]
+	* [案例]
+		* [各种数字新闻及可视分析系统和ieeevischallenge]
