@@ -143,6 +143,7 @@
 		* [灵动数艺](http://www.bjdataart.com/contanct.php)
 		* [海云数据]()
 		* [Trifacta]()
+		* [Palantir](https://www.palantir.com)
 		* [万博思图]()
 		* [Tableau]()
 		* [datawatch]()
