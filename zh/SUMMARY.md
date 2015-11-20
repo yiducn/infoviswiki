@@ -5,6 +5,7 @@
 		* [什么是可视化](intro/whatis/whatis.md)
 		* [为什么需要可视化](intro/whyvis/whyvis.md)
 		* [信息图、信息可视化与可视分析]()
+		* [可视分析综述]()
 	* [可视化方法](visualmethod/readme.md)
 		* [从数据角度看可视化方法的分类]()
 			* [一维数据]()
