@@ -73,6 +73,7 @@
 				* [Wordle]()
 			* [日志数据可视化软件](tools/code_swarm/code_swarm.md)
 			* [Circos](tools/circos/circos.md)
+			* [Lineup](tools/lineup/lineup.md)
 	* [开发工具](toolkits/readme.md)
 		* [可视化开发工具]()
 			* [Prefuse](toolkits/prefuse/prefuse.md)
