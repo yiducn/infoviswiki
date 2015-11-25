@@ -63,8 +63,6 @@ http://www-958.ibm.com/software/analytics/labs/manyeyes/#vis=503230， 这就是
 ![](84.png)
 
 
-
-
 ## 网络相关资源
 * Many Eyes：人人都能可视化 http://www.guokr.com/post/82137/
 * IBM图示工具Many Eyes简介 http://blog.sina.com.cn/s/blog_651a9e980101g6sy.html
