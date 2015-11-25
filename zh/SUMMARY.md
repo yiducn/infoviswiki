@@ -1,6 +1,6 @@
 ﻿# Summary
 
-* [理论篇]
+* [理论篇]()
 	* [概述](intro/readme.md)
 		* [什么是可视化](intro/whatis/whatis.md)
 		* [为什么需要可视化](intro/whyvis/whyvis.md)
