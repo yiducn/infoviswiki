@@ -32,6 +32,7 @@ Tagxedo能将单词(著名演讲、文章、口号，甚至是字母)转换成�
 
 ![](003shape.png)
 
+![](004tagxedo.png)
 
 ## 一个例子
 我们找到“I have a dream”的原文，来制作标签云。
