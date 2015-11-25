@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [理论篇](chapter1.md)
+* [理论篇](theory.md)
    * [概述](intro/readme.md)
        * [什么是可视化](intro/whatis/whatis.md)
        * [为什么需要可视化](intro/whyvis/whyvis.md)
