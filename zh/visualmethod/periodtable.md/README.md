@@ -14,11 +14,11 @@
 160种方法最终筛选为100种，筛选的规则包括可视化方法必须在接下来的各个步骤中都有完善的文档、可视化方法必须在现实生活中出现过、必须能够一定程度上被非专家用户理解等等。
 
 第三步是要找到合适的方法进行组织，通过分析这些可视化方法的图形属性、应用上下文和范围等等，最终制定了组织的五个维度：
-可视化方法的复杂程度(Complexity of Visualization)
-主要的应用领域(Main Application or Content Area)
-视点/视角(Point of View)
-辅助思考的类型(Type of Thinking Aid)
-呈现的类型(Type of Representation)
+* 可视化方法的复杂程度(Complexity of Visualization)
+* 主要的应用领域(Main Application or Content Area)
+* 视点/视角(Point of View)
+* 辅助思考的类型(Type of Thinking Aid)
+* 呈现的类型(Type of Representation)
 
 # 详细解读一下这张“元素周期表”
 元素周期表从上到下，表示可视化方法的复杂程度由低到高。下面这张图，时间线(continuum)、表格(table)、饼图(pie chart)、柱状图(bar chart)的复杂程度逐渐增加。
