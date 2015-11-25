@@ -24,7 +24,7 @@
            * [数据可视化目录](visualmethod/catelog/README.md)
            * [可视化的元素周期表](visualmethod/periodtable/README.md)
            * [从分析任务划分](visualmethod/howtochoose1.md)
-           * ［从数据类型与分析任务的详细划分］
+           * [从数据类型与分析任务的详细划分](visualmethod/howtochoose2/README.md)
    * [可视分析方法](hci/readme.md)
        * 基本操作
            * 选择
