@@ -33,14 +33,18 @@ ManyEyes包括三个核心特性：自定制数据、丰富的可视化、一定
 我们以2013版为例，演示如何使用ManyEyes创建可视化
 ### 1.上传数据或选择
 选择“Upload your own Data”(上传自己的数据)或“Use Existing Data”(使用已有的数据)，进行数据的选择。我们选择“Upload your own Data”，进入数据录入页面。
-![](6.png)
+
+![](71.png)
 
 ### 2.数据录入
 我们选择Spreadsheet，然后把一款数据(纳斯达克股票数据)录入，然后为不同的列设置类型(文本型、数值型、日期型)，然后点击“Upload Data”(上传数据)，稍等片刻。进入可视化设置。
 
+![](72.png)
+
 ### 3.可视化设置
 界面如下，可以选择各种不同的可视化类型，在这里，选择“Line Graph”(折线图)。
 
+![](73.png)
 自行配置折线图的各个轴，然后发布。http://www-958.ibm.com/software/analytics/labs/manyeyes/#vis=503230， 这就是我们刚刚发布的可视化。可以交互的哟！
 
 ## 一些使用ManyEyes制作的可视化
