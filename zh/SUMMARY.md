@@ -32,6 +32,7 @@
 		* [Focus + Context]()
 		* [Dynamic Filter]()
 		* [Brush + Linking]()
+		* [cross filtering]()
 		* [Multi Views]()
 		* [交互技术]()
 			* [GUI]()
