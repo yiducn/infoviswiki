@@ -54,7 +54,7 @@
            * Tableau
            * [Raw](tools/raw/README.md)
            * [iChart](tools/ichart/ichart.md)
-           * [ManyEyes](tools/manyeyes/manyeyes.md)
+           * [ManyEyes](tools/manyeyes/README.md)
            * 百度图说
            * DVIZ
            * 大数据魔镜
