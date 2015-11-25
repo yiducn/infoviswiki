@@ -63,6 +63,6 @@ Tagxedo能将单词(著名演讲、文章、口号，甚至是字母)转换成�
 
 
 参考资源：
-标签云的维基百科：http://en.wikipedia.org/wiki/Tag_cloud
-沈浩老师的博客，对使用本工具制作中文标签云有介绍：http://shenhaolaoshi.blog.sohu.com/259781474.html
-另一款工具，功能比较类似，但不支持中文：http://www.wordle.net/
+* 标签云的维基百科：http://en.wikipedia.org/wiki/Tag_cloud
+* 沈浩老师的博客，对使用本工具制作中文标签云有介绍：http://shenhaolaoshi.blog.sohu.com/259781474.html
+* 另一款工具，功能比较类似，但不支持中文：http://www.wordle.net/
