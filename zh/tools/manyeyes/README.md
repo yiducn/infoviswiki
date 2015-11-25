@@ -36,7 +36,7 @@ ManyEyes包括三个核心特性：自定制数据、丰富的可视化、一定
 
 
 
-网络相关资源：
+## 网络相关资源
 * Many Eyes：人人都能可视化 http://www.guokr.com/post/82137/
 * IBM图示工具Many Eyes简介 http://blog.sina.com.cn/s/blog_651a9e980101g6sy.html
 * 论文 http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4376131
