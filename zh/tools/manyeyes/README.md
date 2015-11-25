@@ -45,7 +45,12 @@ ManyEyes包括三个核心特性：自定制数据、丰富的可视化、一定
 界面如下，可以选择各种不同的可视化类型，在这里，选择“Line Graph”(折线图)。
 
 ![](73.png)
-自行配置折线图的各个轴，然后发布。http://www-958.ibm.com/software/analytics/labs/manyeyes/#vis=503230， 这就是我们刚刚发布的可视化。可以交互的哟！
+
+### 4.自行配置折线图的各个轴，然后发布
+http://www-958.ibm.com/software/analytics/labs/manyeyes/#vis=503230， 这就是我们刚刚发布的可视化。可以交互的哟！
+
+![](74.png)
+
 
 ## 一些使用ManyEyes制作的可视化
 
