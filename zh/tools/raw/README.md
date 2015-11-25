@@ -5,7 +5,7 @@
 
 RAW与其他辅助可视化设计的工具最大的不同在两点：
 * 第一，它支持的可视化类型以适用于层次数据、网络数据、多维数据的可视化为主。它支持的类型包括各种树形图的变形、Treemap(树图)、嵌套圆、平行坐标、散点图、StreamMap(流图)。并不支持折线图、饼图等一些传统的统计图。
-* 第二，它开放源代码，而且这个小工具提供了开发新的可视化组件的接口。在这个网页上[](https://github.com/densitydesign/raw/wiki/Adding-New-Charts) ，提供了如何开发新的可视化接口的步骤。
+* 第二，它开放源代码，而且这个小工具提供了开发新的可视化组件的接口。在[这个网页上](https://github.com/densitydesign/raw/wiki/Adding-New-Charts) ，提供了如何开发新的可视化接口的步骤。
 
 ## 使用(Step by step)
 ###1.导入数据
