@@ -103,7 +103,7 @@
 		* [选择可视化开发工具](http://selection.datavisualization.ch/)
 * [案例篇]()
 	* [数据新闻]()
-	* [ieeevischallenge]()
+	* [ieeevischallenge](http://hcil2.cs.umd.edu/newvarepository/benchmarks.php)
 	* [可视化在不同领域的应用]()
 		* [文本理解]()
 		* [软件与源代码]()
