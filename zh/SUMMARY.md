@@ -74,7 +74,7 @@
                * 三维地球显示软件
            * 文本数据可视化软件
                * [Tagxedo](tools/tagxed/tagxedo.md)
-               * [Wordle](tools/wordle/readme.md)
+               * [Wordle](tools/wordle/README.md)
            * [日志数据可视化软件](tools/code_swarm/code_swarm.md)
            * [Circos](tools/circos/circos.md)
            * [Lineup](tools/lineup/lineup.md)
