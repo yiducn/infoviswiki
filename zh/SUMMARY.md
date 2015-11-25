@@ -12,7 +12,7 @@
        * 从数据角度看可视化方法的分类
            * 一维数据
            * 二维数据
-           * 多维数据
+           * [多维数据](smallmultiples)
            * 网络数据
            * [时序数据](visualmethod/timeseries/ts.md)
            * 空间数据
