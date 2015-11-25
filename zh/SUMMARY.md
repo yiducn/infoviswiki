@@ -102,7 +102,7 @@
            * [leaflet](http:/leafletjs.com/)
            * Map Box
        * [选择可视化开发工具](http:/selection.datavisualization.ch/)
-* 案例篇
+* [案例篇](case.md)
    * 数据新闻
    * [ieeevischallenge](http:/hcil2.cs.umd.edu/newvarepository/benchmarks.php)
    * 可视化在不同领域的应用
