@@ -113,7 +113,7 @@
        * 智慧城市
            * [HubCab](cases/hubcab/hubcab.md)
        * 反恐
-* 推动可视化发展的力量
+* [推动可视化发展的力量](group.md)
    * [研发团队(中国)](lab/readme.md)
        * 北京大学
        * 浙江大学
