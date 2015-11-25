@@ -94,7 +94,7 @@
            * Gephi Toolkit
            * [peity](https:/github.com/benpickles/peity)
            * [Javascript Infovis Toolkit](http:/philogb.github.io/jit/demos.html)
-       * [空间可视化开发工具]
+       * [空间可视化开发工具]()
            * OpenLayers
            * [WorldWind](toolkits/worldwind/worldwind.md)
            * [unfolding](https:/github.com/tillnagel/unfolding)
