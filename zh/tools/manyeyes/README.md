@@ -54,6 +54,13 @@ http://www-958.ibm.com/software/analytics/labs/manyeyes/#vis=503230， 这就是
 
 ## 一些使用ManyEyes制作的可视化
 
+![](81.png)
+
+![](82.png)
+
+![](83.png)
+
+![](84.png)
 
 
 
