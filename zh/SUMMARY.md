@@ -52,7 +52,7 @@
            * DataWrangler
        * [可视化软件](generaltools/readme.md)
            * Tableau
-           * [Raw](tools/raw/raw.md)
+           * [Raw](tools/raw/README.md)
            * [iChart](tools/ichart/ichart.md)
            * [ManyEyes](tools/manyeyes/manyeyes.md)
            * 百度图说
