@@ -53,7 +53,7 @@
        * [可视化软件](generaltools/readme.md)
            * Tableau
            * [Raw](tools/raw/README.md)
-           * [iChart](tools/ichart/ichart.md)
+           * [iChart](tools/icharts/README.md)
            * [ManyEyes](tools/manyeyes/README.md)
            * 百度图说
            * DVIZ
@@ -94,7 +94,7 @@
            * Gephi Toolkit
            * [peity](https:/github.com/benpickles/peity)
            * [Javascript Infovis Toolkit](http:/philogb.github.io/jit/demos.html)
-       * [空间可视化开发工具]()
+       * 空间可视化开发工具
            * OpenLayers
            * [WorldWind](toolkits/worldwind/worldwind.md)
            * [unfolding](https:/github.com/tillnagel/unfolding)
