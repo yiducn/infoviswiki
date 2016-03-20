@@ -141,7 +141,7 @@
    * 如何获取数据
    * 数据集资源汇总
    * 开放数据
-* [其它](zh/others/readme.md)
+* [其它](others/readme.md)
    * [公司](companies/readme.md)
        * [数字冰雹](companies/digihail/digihail.md)
        * [创冰](companies/champdas/champdas.md)
