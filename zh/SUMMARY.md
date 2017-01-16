@@ -69,6 +69,7 @@
                 * NodeXL
                 * Pajek
                 * Cytoscape
+                * [yEd Graph Editor] ()
             * 时空数据可视化软件
                 * [CartoDB](tools/cartodb/cartodb.md)
                 * 三维地球显示软件
@@ -97,6 +98,7 @@
             * [Cytoscape.js](http://js.cytoscape.org/)
             * sigma.js
             * Gephi Toolkit
+            * yFiles for HTML/Java
         * [空间可视化开发工具](toolkits/空间可视化开发工具.md)
             * OpenLayers
             * [WorldWind](toolkits/worldwind/worldwind.md)
