@@ -94,7 +94,7 @@
             * [peity](https:/github.com/benpickles/peity)
             * [Javascript Infovis Toolkit](http:/philogb.github.io/jit/demos.html)
         * [图可视化开发工具](toolkits/图可视化开发工具.md)
-            * Cytoscape.js
+            * [Cytoscape.js](http://js.cytoscape.org/)
             * sigma.js
             * Gephi Toolkit
         * [空间可视化开发工具](toolkits/空间可视化开发工具.md)
